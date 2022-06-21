@@ -1,7 +1,7 @@
 ### Hello!!! 👋
 
 I'm Ilan and i'm 19 years old.
-This is my blog, to start my personal brand.💙
+This is my repository, here are my personal projects.
 - This my page using blogger technology. 👇
 #####       [ilanangelesrodriguez.com](https://ilanangelesrodriguez.blogspot.com/)
 - My social network 👇
