@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello!!! 👋
 
 This is my blog, to start my personal brand.💙
 - This my page using blogger technology. 👇
 #####       [ilanangelesrodriguez.com](https://ilanangelesrodriguez.blogspot.com/)
 - My social network 👇
-#####       [@ilanangeles1282](https://twitter.com/ilanangeles1282)
-#####       [ilannestorangelesrodriguez](https://www.linkedin.com/in/ilannestorangelesrodriguez/)
+#####       Twitter [@ilanangeles1282](https://twitter.com/ilanangeles1282)
+#####       LinkedIn [ilannestorangelesrodriguez](https://www.linkedin.com/in/ilannestorangelesrodriguez/)
 - My digital portfolio 👇
 #####       [StuDocu](https://www.studocu.com/pe/user/11351365?origin=user-menu)
 #####       [Behance](https://www.behance.net/ilanangeles)
