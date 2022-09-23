@@ -26,7 +26,7 @@ This is my repository, here are my personal projects.
 | <a href="https://twitter.com/ilanangeles1282" target="_blank">@ilanangeles1282</a>  | <a href="https://www.linkedin.com/in/ilannestorangelesrodriguez/" target="_blank">ilannestorangelesrodriguez</a> |
 
 ## 📊 GitHub Stats
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeloDev2111&count_private=true&hide=Blade&theme=ayu-mirage&layout=compact)  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilanangelesrodriguez&count_private=true&hide=Blade&theme=github_dark&layout=compact)  
 
 <p align="center" target="_blank">
   <img src="https://media.giphy.com/media/fW5nKIZV763BnkpWeC/giphy.gif">
