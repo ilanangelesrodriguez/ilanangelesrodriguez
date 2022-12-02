@@ -16,5 +16,5 @@ This is my repository, here are my personal projects.📂
 | --------- | ----   | ----   | ----   | 
 
 ## 📊 GitHub Stats
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilanangelesrodriguez&layout=compact)  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilanangelesrodriguez&theme=github_dark&layout=compact)  
 
