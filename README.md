@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" target="_blank">
-  <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
+  <img src="[https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif](https://giphy.com/embed/qgQUggAC3Pfv687qPC)">
 </p>
 
 ## About me 
