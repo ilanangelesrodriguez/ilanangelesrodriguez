@@ -1,20 +1,26 @@
-<h1 align="center">
-  Hello everybody! 👋
-</h1>
+# ¡Hola, soy Ilan Néstor Angeles Rodriguez! 👋
 
-<p align="center" target="_blank">
-  <img src="[https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif](https://giphy.com/embed/qgQUggAC3Pfv687qPC)">
-</p>
+![Logo de Mi Proyecto](https://github.com/ilanangelesrodriguez/ilanangelesrodriguez/blob/main/code_typing.png?raw=true)
 
-## About me 
-I'm Ilan Néstor Angeles Rodriguez. I'm currently studying systems engineering at the National University of Santa.
+## 💼 Sobre mí
+Soy un estudiante de ingeniería de sistemas e informática en la Universidad Nacional del Santa, a esto añado que soy apasionado por la tecnología y el desarrollo de software. Me dedico a aprender nuevas habilidades y crear pequeños proyectos de frontend de forma independiente.
 
-## My personal projects
+## 📚 Mis intereses y habilidades
 
-This is my repository, here are my personal projects.📂
-| <a href="https://www.studocu.com/pe/user/11351365?origin=user-menu" target="_blank">StuDocu</a> | <a href="https://www.behance.net/ilanangelesrodriguez" target="_blank">Behance</a> | <a href="https://www.calameo.com/subscriptions/7024462" target="_blank">Calameo</a>  | <a href="https://ilanangelesrodriguez.blogspot.com/" target="_blank">Blogspot</a>  | 
-| --------- | ----   | ----   | ----   | 
+- Estudiante de Ingeniería de Sistemas.
+- Desarrollo de software en Java, JavaScript y Python.
+- Explorando el mundo del desarrollo frontend de forma autodidacta.
+- Practicante de metodologías ágiles para la gestión de proyectos con Jira.
+- Uso de herramientas colaborativas como Git, Github, Trello y Slack.
 
-## 📊 GitHub Stats
+## 📬 Contacto
+
+Puedes encontrarme en las siguientes plataformas:
+
+- [LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
+- [Twitter](https://pe.linkedin.com/in/ilannestorangelesrodriguez)
+- [Correo Electrónico](correo@example.com)
+
+## 📊 Estadísticas de GitHub
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilanangelesrodriguez&theme=github_dark&layout=compact)  
 
