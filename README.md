@@ -1,6 +1,9 @@
-# ¡Hola, soy Ilan Néstor Angeles Rodriguez! 👋
-
-![Logo de Mi Proyecto](https://github.com/ilanangelesrodriguez/ilanangelesrodriguez/blob/main/code_typing.png?raw=true)
+<h1 align="center">
+ ¡Hola, soy Ilan Néstor Angeles Rodriguez! 👋
+</h1>
+<p align="center">
+  <img src="https://github.com/ilanangelesrodriguez/ilanangelesrodriguez/blob/main/code_typing.png?raw=true" alt="Descripción de la imagen" width="50%"> 
+</p>  
 
 ## 💼 Sobre mí
 Soy un estudiante de ingeniería de sistemas e informática en la Universidad Nacional del Santa, a esto añado que soy apasionado por la tecnología y el desarrollo de software. Me dedico a aprender nuevas habilidades y crear pequeños proyectos de frontend de forma independiente.
