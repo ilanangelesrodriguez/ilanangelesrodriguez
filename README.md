@@ -9,7 +9,6 @@ Soy estudiante de ingeniería de sistemas e informática en la Universidad Nacio
 ## 📚 Mis intereses y habilidades
 
 - Desarrollo de software en Java, JavaScript y Python.
-- Explorando el mundo del desarrollo frontend de forma autodidacta.
 - Practicante de metodologías ágiles para la gestión de proyectos con Jira.
 
 ## 📬 Contacto
