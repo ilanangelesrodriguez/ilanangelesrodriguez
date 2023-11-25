@@ -6,16 +6,6 @@
 ## 💼 Sobre mí
 Soy estudiante de ingeniería de sistemas e informática en la Universidad Nacional del Santa, a esto añado que soy apasionado por la tecnología y el desarrollo de software.
 
-## 📚 Mis intereses y habilidades
-
-- Desarrollo de software en Java, JavaScript y Python.
-- Practicante de metodologías ágiles para la gestión de proyectos con Jira.
-
-## 📬 Contacto
-
-Puedes encontrarme en las siguientes plataformas:
-
-
 <p align="left">
 <a href="https://twitter.com/ilanangeles1282" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilanangelesrodriguez" height="30" width="40" />
@@ -30,6 +20,12 @@ Puedes encontrarme en las siguientes plataformas:
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ilanangelesrodriguez" height="30" width="40" />
 </a>
 </p>
+
+## 📚 Mis intereses y habilidades
+
+- Desarrollo de software en Java, JavaScript y Python.
+- Practicante de metodologías ágiles para la gestión de proyectos con Jira.
+
 
 ## 📊 Estadísticas de GitHub
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilanangelesrodriguez&theme=github_dark&layout=compact)  
