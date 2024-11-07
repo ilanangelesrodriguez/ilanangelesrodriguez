@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+perfil+de+GitHub!;Soy+Ilan+Néstor+Angeles+Rodriguez&center=true&color=3498db">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+perfil!;Soy+Ilan+Angeles+Rodriguez&center=true&color=3498db">
 </div>
-
-<p align="center">
-  <img src="https://github.com/ilanangelesrodriguez/ilanangelesrodriguez/blob/main/code_typing.png?raw=true" alt="Coding" width="380">
-</p>
 
 <h2 align="center">💼 Desarrollador Frontend & Estudiante de Ingeniería de Sistemas 🎓</h2>
 
