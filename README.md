@@ -44,15 +44,15 @@ Soy un apasionado desarrollador frontend y estudiante de Ingeniería de Sistemas
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilanangelesrodriguez&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilanangelesrodriguez&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilanangelesrodriguez&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilanangelesrodriguez&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilanangelesrodriguez&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilanangelesrodriguez&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
@@ -65,9 +65,9 @@ Soy un apasionado desarrollador frontend y estudiante de Ingeniería de Sistemas
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilanangelesrodriguez&color=blueviolet" alt="Profile views">
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilanangelesrodriguez&color=3498db" alt="Profile views">
+</div>
 
 <div align="center">
   
