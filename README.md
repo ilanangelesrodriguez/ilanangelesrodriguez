@@ -57,14 +57,6 @@ Soy un apasionado desarrollador frontend y estudiante de Ingeniería de Sistemas
 
 ---
 
-### 🏆 Certificaciones Destacadas
-
-- 🥇 Scrum Foundation Professional Certification - CertiProf
-- 🥈 Curso de React.js con TypeScript - Platzi
-- 🥉 Formación React G4 - ONE Alura Latam
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ilanangelesrodriguez&color=3498db" alt="Profile views">
 </div>
