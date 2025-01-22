@@ -17,9 +17,10 @@
 
 Soy un apasionado desarrollador frontend y estudiante de Ingeniería de Sistemas en la Universidad Nacional del Santa. Me especializo en crear interfaces atractivas y funcionales, con un enfoque en tecnologías modernas y mejores prácticas de desarrollo.
 
+- 🔭 Actualmente trabajando como Desarrollador Web en Desis Ltda.
+- 🌱 Siempre aprendiendo y mejorando mis habilidades en React, TypeScript y Node.js
 - 👯 Buscando colaborar en proyectos innovadores y desafiantes
 - 📫 Contáctame: ilanangelesrodriguez@gmail.com
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
@@ -29,6 +30,12 @@ Soy un apasionado desarrollador frontend y estudiante de Ingeniería de Sistemas
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -36,6 +43,7 @@ Soy un apasionado desarrollador frontend y estudiante de Ingeniería de Sistemas
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
+
 
 ---
 
