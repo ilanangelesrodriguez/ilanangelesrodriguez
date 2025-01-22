@@ -17,8 +17,6 @@
 
 Soy un apasionado desarrollador frontend y estudiante de Ingeniería de Sistemas en la Universidad Nacional del Santa. Me especializo en crear interfaces atractivas y funcionales, con un enfoque en tecnologías modernas y mejores prácticas de desarrollo.
 
-- 🔭 Actualmente trabajando como Desarrollador Web en Desis Ltda.
-- 🌱 Siempre aprendiendo y mejorando mis habilidades en React, TypeScript y Node.js
 - 👯 Buscando colaborar en proyectos innovadores y desafiantes
 - 📫 Contáctame: ilanangelesrodriguez@gmail.com
 
