@@ -14,11 +14,9 @@
 ---
 
 ### 🚀 Sobre mí
-
-Soy un apasionado desarrollador frontend y estudiante de Ingeniería de Sistemas en la Universidad Nacional del Santa. Me especializo en crear interfaces atractivas y funcionales, con un enfoque en tecnologías modernas y mejores prácticas de desarrollo.
-
+- 🔭 Actualmente trabajando como Desarrollador Frontend en Plazbot AI.
 - 🌱 Siempre aprendiendo y mejorando mis habilidades en React, TypeScript y Node.js
-- 👯 Buscando colaborar en proyectos innovadores y desafiantes
+- 👯 Buscando colaborar en proyectos innovadores
 - 📫 Contáctame: ilanangelesrodriguez@gmail.com
 ---
 
@@ -65,7 +63,4 @@ Soy un apasionado desarrollador frontend y estudiante de Ingeniería de Sistemas
 </div>
 
 <div align="center">
-  
-  **¡Gracias por visitar mi perfil! No dudes en contactarme para colaboraciones o proyectos interesantes.**
-
 </div>
