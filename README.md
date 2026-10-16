@@ -1,21 +1,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+perfil!;Soy+Ilan+Angeles+Rodriguez&center=true&color=3498db">
 </div>
-
-<!-- <h2 align="center">💼 Desarrollador Frontend & Estudiante de Ingeniería de Sistemas 🎓</h2> -->
-
-<!-- 
-<p align="center">
-  <a href="https://twitter.com/ilanangeles1282" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.facebook.com/ilan.angelesrodriguez.9" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://pe.linkedin.com/in/ilannestorangelesrodriguez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@ilannestorangelesrodriguez1865" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-</p>
--->
 ---
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente trabajando como Desarrollador Frontend en Agencia GATO.
+- 🔭 Actualmente trabajando como Desarrollador Frontend.
 - 🌱 Siempre aprendiendo y mejorando mis habilidades en React, TypeScript y Node.js
 - 📫 Contáctame: ilanangelesrodriguez@gmail.com
 ---
