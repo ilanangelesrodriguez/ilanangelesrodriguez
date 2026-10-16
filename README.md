@@ -7,7 +7,6 @@
 - 🔭 Actualmente trabajando como Desarrollador Frontend.
 - 🌱 Siempre aprendiendo y mejorando mis habilidades en React, TypeScript y Node.js
 - 📫 Contáctame: ilanangelesrodriguez@gmail.com
----
 
 ### 🛠️ Tecnologías y Herramientas
 
